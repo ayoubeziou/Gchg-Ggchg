@@ -1,0 +1,6 @@
+{
+  "name": "DeepSeek",
+  "description": "تطبيق ذكاء اصطناعي بنمط ديب سيك V3 يدعم التفكير العميق والبحث في الويب وتحليل الكلمات والمسائل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
